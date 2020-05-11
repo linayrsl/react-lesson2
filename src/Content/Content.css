@@ -1,0 +1,8 @@
+.Content {
+    grid-area: content;
+    border: 4px solid orange;
+    margin: 4px 4px;
+    color: orange;
+    font-weight: bolder;
+    font-size: 18px;
+}
