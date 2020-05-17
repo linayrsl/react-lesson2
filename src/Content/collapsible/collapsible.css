@@ -1,0 +1,17 @@
+.Collapsible {
+    width: 300px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+}
+
+.collapsible-header {
+    background: gray;
+    font-size: 22px;
+    padding: 15px;
+    color: black;
+}
+
+.collapsible-content {
+    padding: 15px;
+    color: black;
+}
